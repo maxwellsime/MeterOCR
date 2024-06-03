@@ -3,7 +3,7 @@
 - [x] Create github project and README
 - [x] Research topic
 - [x] Gather test images
-- [x] Process test images with CSV
+- [x] Process test images with CV
 - [ ] Apply tesseract to read Meter reading
 - [ ] Apply tesseract to read Meter Number ? MRN Regex
 - [ ] Setup database

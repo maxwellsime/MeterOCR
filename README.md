@@ -5,6 +5,12 @@ Python project to read numbers automatically from a picture of a meter. While th
 ### Objective
 To Create an automatic process using CSV and Tesseract to gather data from an image of a traditional energy meter.
 
+### Methodology
+1. CV used to edit the image
+2. Tesseract used to read the image using LetsGoDigital training data<sup>[2]</sup>
+
+
 ### Bibliography
 [1] ["Smart Meter Statistics in Great Britain: Quarterly Report to end
 December 2023"; British Government, 21 March 2024](https://assets.publishing.service.gov.uk/media/65fc3d0a65ca2f001b7da7c5/Q4_2023_Smart_Meters_Statistics_Report.pdf)
+[2] ["Tesseract_sevenSegmentsLetsGoDigital"; adrianlazaro8; 2015](https://github.com/adrianlazaro8/Tesseract_sevenSegmentsLetsGoDigital)
